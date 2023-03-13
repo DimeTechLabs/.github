@@ -1,4 +1,4 @@
-# Welcome to DimetechLabs
+# Welcome D.I.M.E Tech Labs (Demo Infrastructure Microservice Environment)
 DimetechLabs is a testbed and demo platform that provides a safe and secure environment for learning and experimenting with cloud-related technologies. 
 Our platform is built around IBM Cloud and its services, with a focus on databases, microservices, architectures, and creating a dynamic cloud environment. 
 As such the content may not be perfect. It will evolve over time, the aim is to always strive for best practices, but we will be figuring out those over time.
